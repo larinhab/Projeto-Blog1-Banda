@@ -11,10 +11,10 @@ Projeto realizado por Lara <br/>
 </p>
 
 <p align="center">
-  <img alt="Meu Projeto" src="/Projeto Banda/src/assets/banda1.jpg">
+  <img alt="Meu Projeto" src="/src/assets/banda1.jpg">
 </p>
 <p align="center">
-  <img alt="Meu Projeto" src="/Projeto Banda/src/assets/banda2.png">
+  <img alt="Meu Projeto" src="/src/assets/banda2.png">
 </p>
 <br>
 
